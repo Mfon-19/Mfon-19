@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mfon Udoh</h1>
 <h3 align="center">A Bachelor of Computing Science student</h3>
 <img align = "right" alt = "penguin_coding" width "400" src= "https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif">
-- 🔭 I’m currently working on **a full stack application**
+- I’m currently building stuff 
 
 - 📫 How to reach me **mfonezekel@gmail.com**
 
