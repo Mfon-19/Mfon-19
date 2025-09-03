@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mfon Udoh</h1>
 <h3 align="center">Computer Science student</h3>
 
-- 🔭 I’m currently working on [FilmFindr](github.com/Mfon-19/film_findr)
+- 🔭 I’m currently working on [Eureka](github.com/Mfon-19/rmhi)
 
-- 🌱 I’m currently learning **Spring Boot and getting better at backend engineering.**
+- 🌱 I’m currently learning **Distributed Systems and getting better at backend engineering.**
 
-- 👨‍💻 All of my projects are available at [github.com/Mfon-19](github.com/Mfon-19)
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **mfonezekel@gmail.com**
 
