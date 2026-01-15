@@ -1,2 +1,1 @@
-<h1 align="center">Hi 👋, I'm Mfon Udoh</h1>
-<h3 align="center">Computer Science student</h3>
+hi, i'm mfon, a computer science student learning systems engineering and distributed systems. this github contains my projects, and some learnings
